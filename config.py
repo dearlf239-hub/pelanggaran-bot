@@ -7,13 +7,13 @@ File ini berisi semua pengaturan yang diperlukan
 # KONFIGURASI TELEGRAM BOT
 # ============================================
 # Token bot dari BotFather (akan diisi nanti di TAHAP 3)
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+TELEGRAM_BOT_TOKEN = "8402667316:AAFMWI5ZDCchqCsVaRB-tFvA32ZIWAV-CXA"
 
 # ============================================
 # KONFIGURASI GOOGLE SHEETS
 # ============================================
 # ID Spreadsheet (akan diisi nanti di TAHAP 4)
-SPREADSHEET_ID = "YOUR_SPREADSHEET_ID_HERE"
+SPREADSHEET_ID = "1M0DT913dzlgY2VGdEx4gvNIL_8KO-1_7wJOR5Ow_w5I"
 
 # Nama-nama sheet di spreadsheet
 SHEET_SISWA = "DataSiswa"
@@ -25,7 +25,7 @@ SHEET_ADMIN = "DataAdmin"
 # KONFIGURASI GOOGLE DRIVE
 # ============================================
 # ID Folder Google Drive untuk menyimpan foto (akan diisi nanti di TAHAP 4)
-GOOGLE_DRIVE_FOLDER_ID = "YOUR_FOLDER_ID_HERE"
+GOOGLE_DRIVE_FOLDER_ID = "1GO9rckor4W4966MLYPyupakIE0UsX9fn"
 
 # ============================================
 # KONFIGURASI TIMEZONE
